@@ -1,0 +1,1 @@
+{"mappings":"AACaA,SAASC,cAAc,kBAC/BC,iBAAiB,SAEtB,SAAsBC,GAAK","sources":["src/js/03-feedback.js"],"sourcesContent":["\nconst form = document.querySelector('.feedback-form');\nform.addEventListener('input', handlerInput);\n\nfunction handlerInput(evt) {\n    \n}\n"],"names":["document","querySelector","addEventListener","evt"],"version":3,"file":"03-feedback.5bb87211.js.map"}
